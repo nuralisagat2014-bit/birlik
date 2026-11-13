@@ -1,0 +1,18 @@
+{
+  "name": "PRICE DNA AI — Қызылорда",
+  "short_name": "PRICE DNA",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#071426",
+  "theme_color": "#071426",
+  "lang": "kk",
+  "description": "Азық-түлік бағасы мен инфляцияның интерактивті мониторингі",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
